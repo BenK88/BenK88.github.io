@@ -14,7 +14,7 @@
     </script>
 </body> -->
 
-<body>
+<!-- <body>
     <button id="btn">Click me</button>
     <script>
       function test() {
@@ -25,6 +25,25 @@
         test();
       });
     </script>
-</body>
+</body> -->
+
+<body>
+    <h2> Create a text file and save this to a local computer using JavaScript. </h2>
+    <p> Enter the file content:- </p>
+    <textarea> </textarea>
+    <br/>
+    <button onclick = "downloadFile()"> save File </button>
+    <script>
+       const downloadFile = () => {
+          const link = document.createElement("a");
+          const content = document.querySelector("textarea").value;
+          const file = new Blob([content], { type: 'text/plain' });
+          link.href = URL.createObjectURL(file);
+          link.download = "sample.txt";
+          link.click();
+          URL.revokeObjectURL(link.href);
+       };
+    </script>
+ </body>
 
 </html>
