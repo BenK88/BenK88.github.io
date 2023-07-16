@@ -1,7 +1,7 @@
 
 //minesweeper game by 101computing.net - www.101computing.et/minesweeper-in-javascript/
 var grid = document.getElementById("grid");
-var testMode = true; //Turn this variable to true to see where the mines are
+var testMode = false; //Turn this variable to true to see where the mines are
 const ROW_SIZE = 10;
 const COL_SIZE = 20;
 const NUM_MINES_MAX = 200;
