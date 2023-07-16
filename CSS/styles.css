@@ -1,36 +1,86 @@
-BODY {
-    background: black;
-    color: #DDDDDD;
-    font-family: courier new;
-    text-align: center;
-  }
-  
-  H1 {
-    text-align: center;
-    font-size: 14pt;
-    font-weight: normal;
-  }
-  #grid {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  #grid TR TD{
-    border:1px solid white;
-    background: #999999;
-    width: 16px;
-    height: 16px;
-    text-align: center;
-  }
-  
-  #grid TR TD.clicked {
-      background: #333333;
-  }
-  
-  #grid TR TD.mine {
-      background: #FF0000;
-  }
-  
-  BUTTON {
-    margin: 12px;
-  }
+body {
+  /* The bacnground of the web page */
+  background: rgb(248, 247, 247); 
+  /* The font color */
+  color: #131313;
+  font-family: courier new;
+  text-align: center;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 14pt;
+  font-weight: normal;
+}
+
+#grid {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid tr td {
+  border: 1px solid white;
+  background: #999999;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+}
+
+#grid tr td.clicked {
+  background: #333333;
+}
+
+#grid tr td.mine {
+  background: #FF0000;
+}
+
+button {
+  margin: 12px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #eaeaea;
+}
