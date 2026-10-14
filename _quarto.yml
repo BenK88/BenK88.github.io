@@ -1,13 +1,38 @@
 project:
   type: website
 
+  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+    - python xlsx_to_yml_conf_proc.py  # Automatically generate conference_proceedings.yml from conference_proceedings.xlsx
+  
+# Meta
+description-meta: "Ben King Website; Template adopted from Dr. Gang He"
+author-meta: "Ben King"
+
 website:
   title: "Ben King | Nanophotonics Engineer"
+
   navbar:
+    background: light
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      # - href: index.qmd
+      #   text: Home
+
+      - text: About
+        menu:
+          - text: About Me
+            href: aboutme.qmd
+
+      - text: Research
+        menu:
+          - text: Publications
+            href: publications.qmd
+          - text: Conference Proceedings
+            href: conference_proceedings.qmd
+
+      # - text: Industry Experience
+      #   href: industry_experience.qmd
 
 format:
   html:

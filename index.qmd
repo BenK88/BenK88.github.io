@@ -2,6 +2,6 @@
 title: "Ben King | Nanophotonics Engineer"
 ---
 
-This is a Quarto website.
+This is my personal website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- To learn more about Quarto websites visit <https://quarto.org/docs/websites>. -->
