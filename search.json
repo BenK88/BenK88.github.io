@@ -1,16 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site"
+    "text": "Note: * corresponding author"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journal-papers",
+    "href": "publications.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n\nMolecular Control of Light–Matter Interactions in Plasmonic Nanogap Cavities Benjamin P. King, Rachel E. Bangle, Hengming Li, *Maiken Mikkelsen Oct 13, 2026\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyNg=='); return false;\"&gt;2026&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGxhc21vbmljcw=='); return false;\"&gt;plasmonics&lt;/span&gt;\n\n\nBenjamin P. King, Rachel E. Bangle, Hengming Li, *Maiken Mikkelsen. 2026. Molecular Control of Light–Matter Interactions in Plasmonic Nanogap Cavities. ACS Photonics. doi: 10.1021/acsphotonics.6c01950.\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "conference_proceedings.html",
+    "href": "conference_proceedings.html",
+    "title": "Conference Proceedings",
+    "section": "",
+    "text": "Note: * corresponding author"
+  },
+  {
+    "objectID": "conference_proceedings.html#conference-proceedings",
+    "href": "conference_proceedings.html#conference-proceedings",
+    "title": "Conference Proceedings",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\n\n\nControl of Light-Matter Interactions Through Molecular Design Benjamin P. King, Rachel E. Bangle, Hengming Li, *Maiken Mikkelsen May 6, 2026\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('MjAyNg=='); return false;\"&gt;2026&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGVlci1yZXZpZXdlZA=='); return false;\"&gt;peer-reviewed&lt;/span&gt;\n\n&lt;span class=\"listing-category\"\n      onclick=\"window.quartoListingCategory('cGxhc21vbmljcw=='); return false;\"&gt;plasmonics&lt;/span&gt;\n\n\nBenjamin P. King, Rachel E. Bangle, Hengming Li, *Maiken Mikkelsen. 2026. Control of Light-Matter Interactions Through Molecular Design. Optica Publishing Group.\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-1",
+    "href": "teaching.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-2",
+    "href": "teaching.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+  },
+  {
+    "objectID": "teaching.html#class-3",
+    "href": "teaching.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "industry_experience.html",
+    "href": "industry_experience.html",
+    "title": "Industry Experience",
+    "section": "",
+    "text": "Embedded Systems Engineering Intern\n\nBorgWarner\n\nProduct Engineering Intern\n\nThe Woodbridge Group"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ben King | Nanophotonics Engineer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is my personal website."
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a fourth year PhD student in the Department of Electrical and Computer Engineering at Duke University."
   }
 ]

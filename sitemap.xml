@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BenK88.github.io/about.html</loc>
-    <lastmod>2026-10-14T21:33:24.289Z</lastmod>
+    <loc>https://BenK88.github.io/publications.html</loc>
+    <lastmod>2026-10-14T23:18:28.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BenK88.github.io/conference_proceedings.html</loc>
+    <lastmod>2026-10-14T23:18:28.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BenK88.github.io/teaching.html</loc>
+    <lastmod>2026-10-14T23:18:28.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BenK88.github.io/industry_experience.html</loc>
+    <lastmod>2026-10-14T23:18:28.050Z</lastmod>
   </url>
   <url>
     <loc>https://BenK88.github.io/index.html</loc>
-    <lastmod>2026-10-14T21:33:24.289Z</lastmod>
+    <lastmod>2026-10-14T23:18:28.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BenK88.github.io/aboutme.html</loc>
+    <lastmod>2026-10-14T23:18:28.049Z</lastmod>
   </url>
 </urlset>
