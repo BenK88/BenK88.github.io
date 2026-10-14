@@ -1,9 +1,9 @@
 project:
   type: website
 
-  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
-    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
-    - python xlsx_to_yml_conf_proc.py  # Automatically generate conference_proceedings.yml from conference_proceedings.xlsx
+  # pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+  #   - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+  #   - python xlsx_to_yml_conf_proc.py  # Automatically generate conference_proceedings.yml from conference_proceedings.xlsx
   
 # Meta
 description-meta: "Ben King Website; Template adopted from Dr. Gang He"
